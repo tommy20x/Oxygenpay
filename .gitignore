@@ -1,0 +1,10 @@
+.idea
+.vscode
+!.vscode/extensions.json
+bin/
+tmp/*
+config/*.yml
+!config/*example.yml
+web/redoc/**/*.json
+docker.env
+.actrc
